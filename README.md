@@ -84,29 +84,29 @@ Click **Deploy** when you're done. Wait for Vercel to build.
 
 1. Clone the repository you created earlier.
 
-   ```sh
+   \`\`\`sh
    git clone https://github.com/PATH_TO_YOUR_REPO
-   ```
+   \`\`\`
 
 2. Install dependencies using npm, Yarn, or pnpm.
 
    Install using npm:
 
-   ```sh
+   \`\`\`sh
    npm install
-   ```
+   \`\`\`
 
    Install using Yarn:
 
-   ```sh
+   \`\`\`sh
    yarn install
-   ```
+   \`\`\`
 
    Install using pnpm:
 
-   ```sh
+   \`\`\`sh
    pnpm install
-   ```
+   \`\`\`
 
 #### Add products and prices
 
